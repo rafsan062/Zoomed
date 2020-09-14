@@ -1,0 +1,19 @@
+
+This app will let you join a zoom meeting AUTOMATICALLY at a specific time with
+BOTH OF YOUR AUDIO AND VIDEO TURNED OFF!
+
+How to use:
+1. Install the zoom app and sign in
+2. Launch the zoomed.exe file
+3. Wait a few seconds to initialize
+4. Input your meeting ID, password, and the time you want to join (Input the hour field in 24-hrs format)
+5. Keep your computer turned on and you will join the meeting automatically at the specified time.
+
+Note: If your computer goes to sleep due to inactivity, the program will not run properly.
+Also, DO NOT CLOSE THE PROGRAM UNTIL YOU HAVE JOINED THE MEETING.
+
+
+IMPORTANT!!!
+1. Remember to stay signed in with your zoom account. This app will not sign you in your zoom id.
+2. Your teacher might not count your attendance if you do not sign in with your instituional mail. 
+   So, be sure you are signed in with proper account.
